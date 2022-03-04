@@ -1,0 +1,30 @@
+{
+    "nombreApp" : "Parcial 3",
+    "rutas" : [
+        {
+            "ruta" : "cliente",
+            "icon" : "add_alert",
+            "texto": "Clientes"
+        },
+        {
+            "ruta" : "mesa",
+            "icon" : "accessibility",
+            "texto": "Mesas"
+        },
+        {
+            "ruta" : "factura",
+            "icon" : "folder_open",
+            "texto": "Facturas"
+        },
+        {
+            "ruta" : "mesero",
+            "icon" : "donut_large",
+            "texto": "Meseros"
+        },
+        {
+            "ruta" : "platillo",
+            "icon" : "input",
+            "texto": "Platillos"
+        }
+    ]
+}
